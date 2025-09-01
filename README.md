@@ -29,7 +29,7 @@ Ele foi projetado para ser intuitivo e fácil de usar.
 -----------------------------------------------------
 
 Para usar o Sistema Gerencial, você precisa de um arquivo de licença (`licenca.lic`).
-Este arquivo é fornecido separadamente por Carlos Emanoel.
+Este arquivo é fornecido separadamente por Emanoel Alves.
 
 Após a instalação, copie o arquivo `licenca.lic` para a seguinte pasta:
 
