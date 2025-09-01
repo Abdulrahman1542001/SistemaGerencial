@@ -1,6 +1,6 @@
 *****************************************************
-*                   SISTEMA GERENCIAL               *
-*                   por Emanoel Alves               *
+*    SISTEMA GERENCIAL                              *
+*    por Emanoel Alves                              *
 *****************************************************
 
 Bem-vindo ao Sistema Gerencial!
